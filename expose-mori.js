@@ -1,0 +1,1 @@
+mori = Npm.require('mori');
