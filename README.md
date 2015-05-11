@@ -8,3 +8,6 @@
 meteor add settinghead:mori
 ```
 
+## Usage
+
+The global variable `mori` is exposed both on client and on server side.
